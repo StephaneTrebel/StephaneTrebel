@@ -1,10 +1,64 @@
-### Hi there 👋
+Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+= About me
+
+== 👯 I’m looking to collaborate on ...
+
+- Anything that is *Rust* related, to improve my learning experience.
+- Some *Go*, because a first bad impression should not deter me from learning.
+- Game development on *Bevy* would be stellar ⭐
+
+== 🤔 I’m looking for help with ...
+
+- Sprucing up my personal profile in order to participate in conferences and meetups 😄
+
+== 💬 Ask me about ...
+
+- *Typescript* and type systems, I like them !
+- *Git* and it's obscure parts. Rebase is _really_ not that hard !
+- *Vim/Neovim*, and become One with the ultimate editor experience 💪
+
+== 📫 How to reach me: ...
+
+I'm on almost every social media platform with my real name, so I can be found quite easily ^^
+
+== ⚡ Fun facts: ...
+
+= My brag Document
+
+NOTE: This part is heavily influenced by https://jvns.ca/blog/brag-documents[Julia Evans Brag Document]
+
+== Goals for this year
+
+- Improve my *Rust* shenanigans, to learn and hopefully avoid getting kicked so often by the Borrow Checker
+- Propagate my love for *HTMX*, because the Web should be as simple as an AJAX request
+- Be a speaker in a public conference, on a stage, on a topic I love to talk about
+- Keep publishing episodes in the podcast I'm a part of (https://www.podcastics.com/podcast/wespeakcloud/[WeSpeakCloud])
+
+== Goals for next year
+
+- Push a bit further on *Bevy* and through it polish my ECS game development skills
+
+== Projects
+
+I mostly worked on closed sourced code, unfortunately, so I'm not at liberty to discuss it publicly.
+
+Just know that it involves DevOps culture fostering, CI/CD development for fast developper feedback, and I also perform audits on node.js/Typescript environments.
+
+== Collaboration & mentorship
+
+- I'm the «git» guy almost everywhere I go. Three-way merge conflicts, reflog, and fixups are my bread and butter !
+- Recently I tried to shift my mentoring audience to tech people that aren't junior anymore but also lacks a bit to truly embrace become Senior/Lead in their roles, especially on the public side, since it's an important topic for me, and that I truly care about fostering a enviroment based on quality and transparency.
+- I lead a mentorship initiative in my company to help people lacking some hard or soft skills find an appropriate mentor that will help them improve.
+
+== Company building
+
+- In addition to my mentoring initiatives, I contribute to my company podcast https://www.podcastics.com/podcast/wespeakcloud/[WeSpeakCloud]
+
+== Outside of work
+
+- I play Riichi Mahjong at https://mahjongsoul.game.yo-star.com/. Feel free to enjoy pain with me there ! 🀄
+- As any average Cinema enjoyer, I have a https://letterboxd.com/stephane_trebel/[Letterboxd]
+- My favorite song to play on my guitar is *Hotel California* and the guitar solo I hope to master one day is the one from *Highway Star* by Deep Purple 🥰
+- I am a huuuuuuge _Souls_ videogames fan, so If you have ever been kicked in the teeth by Malenia, or if you succeeded in head banging Kalameet and Midir an NG+2, know that you're not alone !
+
