@@ -36,22 +36,35 @@ NOTE: This part is heavily influenced by https://jvns.ca/blog/brag-documents[Jul
 == Goals for next year
 
 - Push a bit further on *Bevy* and through it polish my ECS game development skills
+- Be part of an OSS initiative, bonus point if it's a Rust one !
+- Reach even more people I resonate with on a technical and meta level 😍
 
-== Projects
+== Ongoing Projects
 
 I mostly worked on closed sourced code, unfortunately, so I'm not at liberty to discuss it publicly.
-
 Just know that it involves DevOps culture fostering, CI/CD development for fast developper feedback, and I also perform audits on node.js/Typescript environments.
+
+But what I _can_ talk about are my personal projects, of course !
+
+- I built my https://github.com/StephaneTrebel/split-kb-assembly-logs[very own split keyboard] ! It's now my daily driver and while I'm still learning to work with it, it has brought me great satisfaction, both in making it and now in tweaking it 😁
+- I made not https://github.com/StephaneTrebel/poc-htmx-rust[one], but https://github.com/StephaneTrebel/poc-htmx-bun[two] repositories about HTMX. Feel free to engage with them ! I'm eager to extend their functional range to truly test HTMX to the brink of its possibilities.
+- I've been asked to help in upgrading https://github.com/hgomez/Teddy[an old Rust repository], based on Actix, and it's really interesting to see all the improvements both the Rust language and a now old framework has evolved.
 
 == Collaboration & mentorship
 
 - I'm the «git» guy almost everywhere I go. Three-way merge conflicts, reflog, and fixups are my bread and butter !
-- Recently I tried to shift my mentoring audience to tech people that aren't junior anymore but also lacks a bit to truly embrace become Senior/Lead in their roles, especially on the public side, since it's an important topic for me, and that I truly care about fostering a enviroment based on quality and transparency.
+- Recently I tried to shift my mentoring audience to tech people that aren't junior anymore but also lack a bit to truly embrace become Senior/Lead in their roles, especially on the public side, since it's an important topic for me, and that I truly care about fostering a enviroment based on quality and transparency.
 - I lead a mentorship initiative in my company to help people lacking some hard or soft skills find an appropriate mentor that will help them improve.
 
 == Company building
 
 - In addition to my mentoring initiatives, I contribute to my company podcast https://www.podcastics.com/podcast/wespeakcloud/[WeSpeakCloud (FR)]
+- My Slack reactivity is unmatched. Dunno if it's a braggable topic or not to be honest 😅
+
+== Conferences
+
+- I'm going to talk about HTMX at Montpellier (France) for the https://sunny-tech.io/[Sunny Tech 2024 event]
+- I've been selected to talk about a topic I'm very enthousiastic of, at https://devfest.gdgnantes.com/en/[DevFest Nantes 2024]. Woohoo !
 
 == Outside of work
 
