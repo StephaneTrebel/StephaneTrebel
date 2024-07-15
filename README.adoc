@@ -61,10 +61,16 @@ But what I _can_ talk about are my personal projects, of course !
 - In addition to my mentoring initiatives, I contribute to my company podcast https://www.podcastics.com/podcast/wespeakcloud/[WeSpeakCloud (FR)]
 - My Slack reactivity is unmatched. Dunno if it's a braggable topic or not to be honest 😅
 
-== Conferences
+== Public conferences
 
-- I'm going to talk about HTMX at Montpellier (France) for the https://sunny-tech.io/[Sunny Tech 2024 event]
-- I've been selected to talk about a topic I'm very enthousiastic of, at https://devfest.gdgnantes.com/en/[DevFest Nantes 2024]. Woohoo !
+=== 2023
+
+- CloudSud (remote): https://youtu.be/oWOCdI5HFsQ[Pulumi, infra as true code]
+
+=== 2024
+
+- I've had the privilege of talking about HTMX at Montpellier (France) for the https://sunny-tech.io/[Sunny Tech 2024 event]
+- I've been selected to talk about a topic I'm very enthousiastic about, at https://devfest.gdgnantes.com/en/[DevFest Nantes 2024]. Woohoo !
 
 == Outside of work
 
