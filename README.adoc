@@ -72,7 +72,7 @@ But what I _can_ talk about are my personal projects, of course !
 === 2024
 
 - 2024/07/04: I've had the privilege of talking about HTMX at Montpellier (France) for the https://sunny-tech.io/[Sunny Tech 2024] event.
-- 2024/09/06: I'll be talking about Meta-Laws, a topic I'm very enthousiastic about, in a Quickie at La Rochelle https://www.jugsummercamp.org/[Jug Summer Camp 2024] event.
+- 2024/09/06: I've talked about the "Meta-Laws", a topic I'm very enthousiastic about, in a Quickie at La Rochelle https://www.jugsummercamp.org/[Jug Summer Camp 2024] event.
 - 2024/10/17: The Meta-Laws talk, in its full conference glory, will happen at https://devfest.gdgnantes.com/en/[DevFest Nantes 2024]. Woohoo !
 - 2024/11/08: HTMX talk will be back at Bordeaux for the https://bdxio.fr/[BDX I/O] event ! 🤩
 
