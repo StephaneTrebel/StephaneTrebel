@@ -39,6 +39,26 @@ NOTE: This part is heavily influenced by https://jvns.ca/blog/brag-documents[Jul
 - Be part of an OSS initiative, bonus point if it's a Rust one !
 - Reach even more people I resonate with on a technical and meta level 😍
 
+== Public conferences
+
+=== 2023
+
+- CloudSud (remote): https://youtu.be/oWOCdI5HFsQ[Pulumi, infra as true code]
+
+=== 2024
+
+- 2024/07/04: I've had the privilege of talking about HTMX at Montpellier (France) for the https://sunny-tech.io/[Sunny Tech 2024] event.
+- 2024/09/06: I've talked about the "Meta-Laws", a topic I'm very enthousiastic about, in a Quickie at La Rochelle https://www.jugsummercamp.org/[Jug Summer Camp 2024] event.
+- 2024/10/17: The Meta-Laws talk, in its full conference glory, has happened at https://devfest.gdgnantes.com/en/[DevFest Nantes 2024]. Woohoo !
+- 2024/11/08: HTMX talk will be back at Bordeaux for the https://bdxio.fr/[BDX I/O] event ! 🤩
+
+As you can see, I've been blessed with multiple occasions for conference speaking in 2024. I'd like to take a minute to thank the event planners for their trust and care 😌
+
+=== 2025
+
+- 2025/01/23: SnowCamp here I come, with the Meta-Laws talk ! 🤩
+- 2025/01/29: Not confirmed yet, but the Meta-Laws talk seems to have been appreciated at DevFest Nantes 😏
+
 == Ongoing projects
 
 I mostly worked on closed sourced code, unfortunately, so I'm not at liberty to discuss it publicly.
@@ -62,26 +82,6 @@ But what I _can_ talk about are my personal projects, of course !
 - In addition to my mentoring initiatives, I contribute to my company podcast https://www.podcastics.com/podcast/wespeakcloud/[WeSpeakCloud (FR)]
 - My Slack reactivity is unmatched. Dunno if it's a braggable topic or not to be honest 😅
 - I eagerly review work being it technical or even literary like blog posts. I sincerely think that our work is a least 80% a literary one, so I spend a lot of effort and expectations on that.
-
-== Public conferences
-
-=== 2023
-
-- CloudSud (remote): https://youtu.be/oWOCdI5HFsQ[Pulumi, infra as true code]
-
-=== 2024
-
-- 2024/07/04: I've had the privilege of talking about HTMX at Montpellier (France) for the https://sunny-tech.io/[Sunny Tech 2024] event.
-- 2024/09/06: I've talked about the "Meta-Laws", a topic I'm very enthousiastic about, in a Quickie at La Rochelle https://www.jugsummercamp.org/[Jug Summer Camp 2024] event.
-- 2024/10/17: The Meta-Laws talk, in its full conference glory, has happened at https://devfest.gdgnantes.com/en/[DevFest Nantes 2024]. Woohoo !
-- 2024/11/08: HTMX talk will be back at Bordeaux for the https://bdxio.fr/[BDX I/O] event ! 🤩
-
-As you can see, I've been blessed with multiple occasions for conference speaking in 2024. I'd like to take a minute to thank the event planners for their trust and care 😌
-
-=== 2025
-
-- 2025/01/23: SnowCamp here I come, with the Meta-Laws talk ! 🤩
-- 2025/01/29: Not confirmed yet, but the Meta-Laws talk seems to have been appreciated at DevFest Nantes 😏
 
 == Outside of work
 
