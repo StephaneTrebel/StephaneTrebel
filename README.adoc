@@ -71,6 +71,10 @@ As you can see, I've been blessed with multiple occasions for conference speakin
 - 2025/01/23: https://snowcamp.io/[SnowCamp] was awesome, with the Meta-Laws talk ! 🤩
 - 2025/01/29: https://www.meetup.com/software-crafters-rennes/events/305464478/[Meetup Software Crafters Rennes], again with the Meta-Laws talk 💪
 - 2025/01/06: And again with the Meta-Laws but this time as a KEYNOTE for https://touraine.tech/#schedule[Touraine Tech] 😻
+- 2025/02/19: https://www.linkedin.com/posts/stephane-trebel_excellente-soir%C3%A9e-m%C3%A9ta-lois-hier-au-poool-activity-7300866955324850176-LInk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0_8CkBvsuV8oQDcgJPTXwsdi8YrCoYepA[A dedicated event for the Meta-Laws talk] organized by the awesome people of Software Crafters Rennes ! 💓
+- 2025/03/21: Onepoint asked me to present the Meta-Laws talk to their team for their https://www.linkedin.com/posts/stephane-trebel_ce-vendredi-21-mars-c%C3%A9tait-latlantique-activity-7308880026815324160-51hJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0_8CkBvsuV8oQDcgJPTXwsdi8YrCoYepA[Atlantique Day] event of internal and first-speakers talks 🤩
+- 2025/04/16: The biggest event in France, DevoxxFR, has accepted my HTMX talk. Time to stir up the frontend discourse 😅
+- And many more opportunities to come, stay tuned 😉
 
 == Ongoing projects
 
