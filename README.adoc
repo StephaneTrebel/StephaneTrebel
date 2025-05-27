@@ -42,8 +42,8 @@ NOTE: This part is heavily influenced by https://jvns.ca/blog/brag-documents[Jul
 
 - Improve my *Rust* shenanigans, to learn and hopefully avoid getting kicked so often by the Borrow Checker
 - Propagate my love for *HTMX*, because the Web should be as simple as an AJAX request
-- Be a speaker in a public conference, on a stage, on topics I love to talk about, and hopefully inspire through humour 😁
-- Keep publishing episodes in the podcast I'm a part of (https://www.podcastics.com/podcast/wespeakcloud/[WeSpeakCloud (FR)])
+- Be a speaker in public conferences, on a stage, on topics I love to talk about, and hopefully inspire through humour 😁
+- Keep gearing up my Streaming skills for "Le Permacodeur"
 
 == Goals for next year
 
@@ -95,7 +95,7 @@ But what I _can_ talk about are my personal projects, of course !
 
 == Company building
 
-- In addition to my mentoring initiatives, I contribute to my company podcast https://www.podcastics.com/podcast/wespeakcloud/[WeSpeakCloud (FR)]
+- In addition to my mentoring initiatives, I used to contribute to my company podcast https://www.podcastics.com/podcast/wespeakcloud/[WeSpeakCloud (FR)]
 - My Slack reactivity is unmatched. Dunno if it's a braggable topic or not to be honest 😅
 - I eagerly review work being it technical or even literary like blog posts. I sincerely think that our work is a least 80% a literary one, so I spend a lot of effort and expectations on that.
 
