@@ -62,19 +62,18 @@ NOTE: This part is heavily influenced by https://jvns.ca/blog/brag-documents[Jul
 - 2024/07/04: I've had the privilege of talking about HTMX at Montpellier (France) for the https://sunny-tech.io/[Sunny Tech 2024] event.
 - 2024/09/06: I've talked about the "Meta-Laws", a topic I'm very enthousiastic about, in a Quickie at La Rochelle https://www.jugsummercamp.org/[Jug Summer Camp 2024] event. You can see the end result https://youtu.be/h3-5pjQaKz8?feature=shared[here]
 - 2024/10/17: The Meta-Laws talk, in its full conference glory, has happened at https://devfest.gdgnantes.com/en/[DevFest Nantes 2024]. Woohoo ! You can watch it https://youtu.be/7uZAdS9yHlA?feature=shared[here]
-- 2024/11/08: HTMX talk at Bordeaux for the https://bdxio.fr/[BDX I/O] event ! Replay is https://youtu.be/k8LwIsgqbfg?t=1400[here]. I'll update this link with the dedicated one when it will be done by the (awesome) production team 😌
+- 2024/11/08: HTMX talk at Bordeaux for the https://bdxio.fr/[BDX I/O] event ! Replay is https://www.youtube.com/watch?v=szSXNi77VLo[here]
 
 As you can see, I've been blessed with multiple occasions for conference speaking in 2024. I'd like to take a minute to thank the event planners for their trust and care 😌
 
 === 2025
 
 - 2025/01/23: https://snowcamp.io/[SnowCamp] was awesome, with the Meta-Laws talk ! 🤩
-- 2025/01/29: https://www.meetup.com/software-crafters-rennes/events/305464478/[Meetup Software Crafters Rennes], again with the Meta-Laws talk 💪
-- 2025/01/06: And again with the Meta-Laws but this time as a KEYNOTE for https://touraine.tech/#schedule[Touraine Tech] 😻
+- 2025/01/06: And again with the Meta-Laws but this time as a KEYNOTE for https://touraine.tech/#schedule[Touraine Tech] 😻. You can watch the video https://www.youtube.com/watch?v=vUQKU_iLktI[here]
 - 2025/02/19: https://www.linkedin.com/posts/stephane-trebel_excellente-soir%C3%A9e-m%C3%A9ta-lois-hier-au-poool-activity-7300866955324850176-LInk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0_8CkBvsuV8oQDcgJPTXwsdi8YrCoYepA[A dedicated event for the Meta-Laws talk] organized by the awesome people of Software Crafters Rennes ! 💓
 - 2025/03/21: Onepoint asked me to present the Meta-Laws talk to their team for their https://www.linkedin.com/posts/stephane-trebel_ce-vendredi-21-mars-c%C3%A9tait-latlantique-activity-7308880026815324160-51hJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0_8CkBvsuV8oQDcgJPTXwsdi8YrCoYepA[Atlantique Day] event of internal and first-speakers talks 🤩
-- 2025/04/16: The biggest event in France, DevoxxFR, has accepted my HTMX talk. Time to stir up the frontend discourse 😅
-- And many more opportunities to come, stay tuned 😉
+- 2025/04/16: The biggest event in France, DevoxxFR, has accepted my HTMX talk. Time to stir up the frontend discourse 😅. The replay can be watched https://www.youtube.com/watch?v=O0LQuErwxho[here]
+- And many more opportunities to come (BreizhCamp, Sunny Tech, etc.)... stay tuned 😉
 
 == Ongoing projects
 
